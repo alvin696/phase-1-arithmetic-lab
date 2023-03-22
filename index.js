@@ -1,16 +1,16 @@
-//Challenge 1
-let num1 = 31
-let num2 = 2
-let multiply = num1 * num2
+// Multiplying num1 and num2 to get 62
+let num1 = 31;
+let num2 = 2;
+let multiply = num1 * num2;
 
-//Challenge 2
-let random = Math.floor(Math.random() * 100) + 1
+// Generating a random integer greater than 0
+let random = Math.floor(Math.random() * 100) + 1;
 
-//Challenge 3
-let num3 = 16
-let num4 = 6
-let mod = num3 % num4
+// Calculating the remainder of num3 divided by num4
+let num3 = 14;
+let num4 = 5;
+let mod = num3 % num4;
 
-//Challenge 4
-let set = [2, 5, 7, 8, 20]
-let max = Math.max(...set)
+// Finding the highest number in a set
+let numbers = [5, 20, 10, 7, 3];
+let max = Math.max(...numbers);
